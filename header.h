@@ -1,7 +1,7 @@
 /******************************************************************************
 * @file      header.h
 * @author    author
-* @copyright copyright yyyy-yyyy
+* @copyright copyright (c) yyyy-yyyy
 *            xyz License (see License.txt file)
 * @brief     description
 * @details   full description
