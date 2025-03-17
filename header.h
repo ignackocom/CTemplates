@@ -27,7 +27,7 @@
 *
 * @note
 *
-* @code{.language extension}
+* @code{.language file extension}
 * ...
 * code example
 * ...
