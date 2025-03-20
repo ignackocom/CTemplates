@@ -1,2 +1,2 @@
 # CTemplates
-C Language template files
+C Language source code templates
