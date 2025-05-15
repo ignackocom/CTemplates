@@ -1,6 +1,6 @@
 /******************************************************************************
 * \file      Header.h
-* \version   YYYY.MM.DD.RR (YYYY year,MM month,DD day,RR revision)
+* \version   YYYY.MM.DD (YYYY year,MM month,DD day)
 * \author    Author
 * \copyright Copyright (c) yyyy - yyyy
 *            XYZ License (see License.txt file)
